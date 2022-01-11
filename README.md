@@ -17,3 +17,5 @@ Mongo cheatsheet
 https://www.mongodb.com/developer/quickstart/cheat-sheet/
 
 https://mongoosejs.com
+
+https://www.w3resource.com/mongodb-exercises/
