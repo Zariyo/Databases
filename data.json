@@ -1,0 +1,57 @@
+{
+	"cards": 
+[
+	{
+		"_id": "61dc95c73916889fd4000000",
+		"name": "RTX 3060",
+		"series": "RTX 3000",
+		"releaseDate": "2020-12-12",
+		"architecture": "Ampere",
+		"company": "Nvidia",
+		"aib": "MSI",
+		"model": "Ventus 2X",
+		"score": "2000"
+	},
+	{
+		"_id": "61dc96f8edbc9f1c04000000",
+		"name": "RTX 3070",
+		"series": "RTX 3000",
+		"releaseDate": "2020-12-12",
+		"architecture": "Ampere",
+		"aib": "Gigabyte",
+		"model": "Aorus",
+		"company": "Nvidia",
+		"score": "2500"
+	},
+	{
+		"_id": "61dc97112c23c8e045000000",
+		"name": "RX 6800",
+		"series": "RX 6000",
+		"releaseDate": "2020-12-14",
+		"architecture": "RDNA 2",
+		"aib": "MSI",
+		"model": "Ventus 3X OC",
+		"company": "AMD",
+		"score": "2750"
+	}
+],
+"producents":
+[
+	{
+		"_id": "61e169981ed20c52c457c4f9",
+		"name": "MSI",
+		"phone": 4487235122,
+		"address": "California",
+		"country": "USA",
+		"supports": ["amd", "nvidia"]
+	},
+	{
+		"_id": "61e16a126176558a2bb636df",
+		"name": "Zotac",
+		"phone": 25455521524,
+		"address": "London",
+		"country": "UK",
+		"supports": ["nvidia"]
+	}
+]
+}
