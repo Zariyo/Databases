@@ -1,22 +1,6 @@
 
-# REST API dla bazy Neo4J i mongo
+# Neo4j and MongoDB APIs
 
- Docker Neo4J
-
- docker run --name neo4j-server -p7474:7474 -p7687:7687 -e NEO4J_AUTH=neo4j/s3cr3t neo4j
-
- http://localhost:7474
-
- cypher refcard
- https://neo4j.com/docs/cypher-refcard/current/
-
-Docker Mongo
-
-docker container run --name mongodb -d -p 27017-27019:27017-27019 mongo:4.4.9
-
-Mongo cheatsheet
-https://www.mongodb.com/developer/quickstart/cheat-sheet/
-
-https://mongoosejs.com
-
-https://www.w3resource.com/mongodb-exercises/
+Hi!  
+This is my repository of multiple APIs written in Express.js using Neo4j and MongoDB Databases,  
+Also some example queries of Neo4j's cypher query language
